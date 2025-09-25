@@ -240,7 +240,7 @@ This project is open-sourced software licensed under the [MIT license](https://o
 **Omar Ashraf Ali**
 
 -   GitHub: [@omarashrafali498](https://github.com/omarashrafali498)
--   Email: omarashrafali498@gmail.com
+-   Email: omark96.hn@gmail.com
 
 ## 🙏 Acknowledgments
 
