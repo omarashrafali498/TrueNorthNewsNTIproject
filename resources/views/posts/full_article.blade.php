@@ -4,7 +4,7 @@
 <!-- Main Content -->
 <main class="container mt-4">
     <div class="article-container">
-        <h1 class="text-center mb-4">Lorem Ipsum</h1>
+        <h1 class="text-center mb-4">{{ $post->title }}</h1>
         <div class="row">
             <div class="col-md-8">
                 <div class="article-content">
