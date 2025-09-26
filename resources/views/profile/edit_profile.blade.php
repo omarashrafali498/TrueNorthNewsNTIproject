@@ -25,7 +25,6 @@
         </div>
         <div class="profile-content">
             <div class="profile-picture">
-                <!-- FIXED: Display user's actual photo from database -->
                 <img src="{{ asset('uploads/photos/' . $user->photo) }}" alt="Profile Photo" id="profileImage">
                 <input type="file" name="photo" id="uploadPhoto" accept="image/*">
                 <label for="uploadPhoto"><i class="fas fa-camera"></i> Change Photo</label>
